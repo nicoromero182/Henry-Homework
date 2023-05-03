@@ -5,7 +5,7 @@
 // por el correspondiente.
 
 // Crea una variable de tipo string.
-const nuevoString = null;
+const nuevoString = 'Nico';
 
 // Crea una variable de tipo number.
 const nuevoNumero = null;
@@ -17,7 +17,7 @@ const nuevoBoolean = null;
 const nuevaResta = 10 - null === 3;
 
 // Resuelve el siguiente problema matemático.
-const nuevaMultiplicacion = 10 * null === 40;
+const nuevaMultiplicacion = 10 * 4 === 40;
 
 // Resuelve el siguiente problema matemático.
 const nuevoModulo = 21 % 5 === null;
